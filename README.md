@@ -165,7 +165,7 @@ PRs and issues are welcome. For anything big, open an issue first.
 
 ## License
 
-MIT (if included).
+MIT.
 
 ---
 
