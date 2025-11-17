@@ -18,7 +18,7 @@ if (localPropertiesFile.exists()) {
 
 android {
     namespace = "com.serag.cryptotracker"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.serag.cryptotracker"
@@ -90,8 +90,8 @@ dependencies {
 
     implementation(libs.bundles.ktor)
 
-    implementation("androidx.room:room-ktx:2.8.3")
-    ksp("androidx.room:room-compiler:2.5.0")
+    implementation(libs.androidx.room.ktx)
+    ksp(libs.androidx.room.compiler)
 
     testImplementation(libs.junit)
 
