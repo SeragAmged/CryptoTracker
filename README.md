@@ -145,29 +145,5 @@ DB name: `coins_db`.
 3. UI observes ViewModel state and updates list/detail UI.  
 4. Price history comes straight from the local DB.
 
----
 
-## Notes
 
-- After editing Room entities or DAOs, run a clean build for KSP to regenerate sources.  
-- If you want coin icons, add Coil and update the composables.  
-- If you prefer navigation routes, replace the adaptive scaffolding with Navigation Compose.
-
----
-
-## Contributing
-
-PRs and issues are welcome. For anything big, open an issue first.
-
----
-
-## License
-
-MIT.
-
----
-
-## Thanks
-
-Dependency versions live in:  
-`app/build.gradle.kts` and `gradle/libs.versions.toml`.
