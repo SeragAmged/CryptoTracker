@@ -31,7 +31,6 @@ On larger screens, it uses an adaptive list–detail layout.
 - **Koin** — simple dependency injection.  
 - **Room** — persists coins + price history.  
 - **Coroutines + Flow** — async + reactive data handling.  
-- **Not used on purpose**: Hilt, Dagger, Retrofit, OkHttp, Coil.
 
 ---
 
