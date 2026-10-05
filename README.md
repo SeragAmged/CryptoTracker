@@ -14,7 +14,6 @@ On larger screens, it uses an adaptive list–detail layout.
 
 ## Screenshots
 
-> Replace the image paths with real files once you add them to the repo.
 
 <p align="center">
   <img src="screenshots/coins_list.png" alt="Coins List" width="280" style="margin-right:12px;" />
